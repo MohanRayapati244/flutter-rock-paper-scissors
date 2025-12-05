@@ -1,16 +1,35 @@
-# colorful_login_getx
+# Rock Paper Scissors – Flutter + GetX + AI
 
-A new Flutter project.
+A fun and simple Rock-Paper-Scissors game built using Flutter and GetX.  
+The user plays against an AI opponent that randomly chooses rock, paper, or scissors.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎮 Player vs AI gameplay
+- 🤖 AI opponent (random + simple logic)
+- ⚡ GetX state management
+- 📱 Responsive UI (Android & iOS)
+- 📦 Organized folder structure
+- 🧠 Stateless & Stateful mix
+- 🔊 Asset images for rock, paper, scissors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 How It Works
+
+- Player selects rock, paper, or scissors  
+- AI randomly selects an option
+- Winner is calculated using game rules:
+  - Rock beats Scissors
+  - Paper beats Rock
+  - Scissors beats Paper
+
+Game result displayed instantly using GetX reactive UI updates.
+
+---
+
+## 📁 Project Structure
+
+
