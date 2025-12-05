@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658826686427",
+    "project_id": "gemini-dd161",
+    "storage_bucket": "gemini-dd161.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658826686427:android:11d19ab49689efb5d601fe",
+        "android_client_info": {
+          "package_name": "com.example.colorful_login_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsD7T8-uCMiv5GHmSZ9P_Om6Ci6wtVL0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
